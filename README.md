@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Home care AI
+# Home Care AI
 
 This is the final project for the Building AI course from <a href="https://www.elementsofai.com/">Elements of AI</a>. Please note that this is an idea for a project and not a finished solution.
 
